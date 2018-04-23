@@ -1,0 +1,4 @@
+tsp_solver
+numpy
+matplotlib
+scipy
