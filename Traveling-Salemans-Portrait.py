@@ -98,5 +98,5 @@ if __name__ == '__main__':
         assert image_link
         main(image_link, size)
     except:
-        print 'Provide URL or Image location'
+        print 'python %s -h' % __file__
         sys.exit(1)
